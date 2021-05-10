@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Changed to a header tag instead of header class */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Changed div tag to nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -44,6 +45,11 @@ header nav ul li {
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+/*Gave link hover state*/
+a:hover {
+    background-color: #2a607c;
 }
 
 p {
