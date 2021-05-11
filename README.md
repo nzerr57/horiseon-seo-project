@@ -6,11 +6,15 @@ The objective of this project was to take existing code and improve its search e
 
 Some of the steps taken to improve the webpage include:
 
-- A title was added to describe the webpage
+- Adding a title to describe the webpage
 - Consolidating CSS class when possible (many were redundant)
-- Changing HTML elements to better fitting semantic ones
-- Alt text was added to images for accessibility
-- Comments were added to the CSS and HTML files
+- Changing HTML elements to better-fitting semantic ones
+- Resizing images to increase load times
+- Adding Alt text to images for accessibility
+- Adding comments to the CSS and HTML files
+
+<a href="https://nzerr57.github.io/horiseon-seo-project/">Link to deployed Project</a>
+
 
 <img src="https://github.com/nzerr57/horiseon-seo-project/blob/main/assets/images/Screenshot1.jpg" alt="screenshot 1 of project"/>
 
