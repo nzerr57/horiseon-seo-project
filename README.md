@@ -1,6 +1,6 @@
 # Horiseon SEO Project
 
-##Description
+## Description
 
 The objective of this project was to take existing code and improve its search engine optimization, accessibility, and overall readability. This was achieved by altering the HTML and CSS of the webpage. 
 
