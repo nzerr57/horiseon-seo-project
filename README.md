@@ -12,9 +12,9 @@ Some of the steps taken to improve the webpage include:
 - Alt text was added to images for accessibility
 - Comments were added to the CSS and HTML files
 
-<img src="./assets/css/images/screenshot1.jpg>
+<img src="https://github.com/nzerr57/horiseon-seo-project/blob/main/assets/images/Screenshot1.jpg" alt="screenshot 1 of project"/>
 
-<img src="./assets/css/images/screenshot2.jpg>
+<img src="https://github.com/nzerr57/horiseon-seo-project/blob/main/assets/images/Screenshot2.jpg" alt="screenshot 2 of project"/>
 
 # License
 
