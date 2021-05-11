@@ -13,12 +13,11 @@ Some of the steps taken to improve the webpage include:
 - Adding Alt text to images for accessibility
 - Adding comments to the CSS and HTML files
 
-<a href="https://nzerr57.github.io/horiseon-seo-project/">Link to deployed Project</a>
+[Link to Deloyed Project](https://nzerr57.github.io/horiseon-seo-project/)
 
+![screenshot 1 of project](https://github.com/nzerr57/horiseon-seo-project/blob/main/assets/images/Screenshot1.jpg)
 
-<img src="https://github.com/nzerr57/horiseon-seo-project/blob/main/assets/images/Screenshot1.jpg" alt="screenshot 1 of project"/>
-
-<img src="https://github.com/nzerr57/horiseon-seo-project/blob/main/assets/images/Screenshot2.jpg" alt="screenshot 2 of project"/>
+![screenshot 2 of project](https://github.com/nzerr57/horiseon-seo-project/blob/main/assets/images/Screenshot2.jpg)
 
 # License
 
